@@ -8,30 +8,15 @@
     "start_url": "./index.html",
     "icons": [
       {
-        "src": "img/icons/icon-72x72.png",
-        "sizes": "72x72",
-        "type": "image/png"
-      },
-      {
-        "src": "img/icons/icon-144x144.png",
-        "sizes": "144x144",
-        "type": "image/png"
-      },
-      {
-        "src": "img/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "img/icons/icon-512x512.png",
-        "sizes": "512x512",
+        "src": "img/docusaurus.png",
+        "sizes": "200x200",
         "type": "image/png"
       }
     ],
     "screenshots": [
       {
-        "src": "img/screenshots/screenshot1.png",
-        "sizes": "1280x720",
+        "src": "img/Screenshot1.png",
+        "sizes": "1896x905",
         "type": "image/png",
         "form_factor": "wide"
       }
